@@ -85,6 +85,8 @@ body {
 .user-image {
   margin: 0 0 32px;
   text-align: center;
+  border: 5px dashed #0b94db;
+  border-radius: 15%;
 }
 
 .intro h3,
